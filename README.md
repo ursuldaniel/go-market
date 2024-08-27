@@ -1,8 +1,8 @@
 # Запуск
 
-## Локально
+1. `docker compose up --build`
 
-## В Docker-контейнере
+2. `docker compose up`
 
 # Изменения и дополнения к ТЗ
 
